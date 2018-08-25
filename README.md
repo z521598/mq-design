@@ -1,1 +1,1 @@
-# activeMq的学习的代码库
+# activeMq与JMS规范的学习的代码库
